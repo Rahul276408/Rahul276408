@@ -1,4 +1,5 @@
-## Hi there 👋
+Im a student in jain university
+
 
 <!--
 **Rahul276408/Rahul276408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
